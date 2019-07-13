@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+*.sqlite3
+typeidea-env/
+__pycache__/
